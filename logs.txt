@@ -1,0 +1,105 @@
+24-05-2022 20:38:07 INFO     [app.py:13] Loading books list.
+24-05-2022 20:38:18 INFO     [app.py:13] Loading books list.
+24-05-2022 20:38:26 INFO     [app.py:13] Loading books list.
+24-05-2022 20:44:02 INFO     [app.py:13] Loading books list.
+24-05-2022 20:44:23 INFO     [app.py:13] Loading books list.
+24-05-2022 20:46:00 INFO     [app.py:13] Loading books list.
+24-05-2022 20:49:52 INFO     [app.py:13] Loading books list.
+24-05-2022 20:57:28 INFO     [app.py:13] Loading books list.
+24-05-2022 21:04:15 INFO     [app.py:13] Loading books list.
+24-05-2022 21:07:20 INFO     [app.py:13] Loading books list.
+24-05-2022 21:15:17 INFO     [app.py:13] Loading books list.
+24-05-2022 21:16:22 INFO     [app.py:13] Loading books list.
+24-05-2022 21:18:32 INFO     [app.py:13] Loading books list.
+24-05-2022 21:18:56 INFO     [app.py:14] Loading books list.
+01-06-2022 22:16:09 INFO     [app.py:15] Loading books list.
+01-06-2022 22:16:32 INFO     [app.py:15] Loading books list.
+01-06-2022 22:18:08 INFO     [app.py:15] Loading books list.
+01-06-2022 22:22:09 INFO     [app.py:14] Loading books list.
+01-06-2022 23:21:20 INFO     [app.py:14] Loading books list.
+01-06-2022 23:21:20 INFO     [app.py:16] Requesting http://books.toscrape.com
+01-06-2022 23:37:11 INFO     [app.py:17] Loading books list.
+01-06-2022 23:44:52 INFO     [app.py:17] Loading books list.
+01-06-2022 23:45:52 INFO     [app.py:17] Loading books list.
+01-06-2022 23:45:52 INFO     [all_books_page.py:25] Found number of catalogue pages available: `
+            
+                Page 1 of 50
+            
+            `
+01-06-2022 23:45:52 INFO     [all_books_page.py:29] Extracted number of pages as integer: `50`.
+01-06-2022 23:46:35 INFO     [app.py:17] Loading books list.
+01-06-2022 23:46:35 INFO     [all_books_page.py:25] Found number of catalogue pages available: `
+            
+                Page 1 of 50
+            
+            `
+01-06-2022 23:46:35 INFO     [all_books_page.py:29] Extracted number of pages as integer: `50`.
+02-06-2022 17:47:34 INFO     [app.py:17] Loading books list.
+02-06-2022 17:47:35 INFO     [all_books_page.py:25] Found number of catalogue pages available: `
+            
+                Page 1 of 50
+            
+            `
+02-06-2022 17:47:35 INFO     [all_books_page.py:29] Extracted number of pages as integer: `50`.
+02-06-2022 17:48:01 INFO     [app.py:17] Loading books list.
+02-06-2022 17:48:02 INFO     [all_books_page.py:25] Found number of catalogue pages available: `
+            
+                Page 1 of 50
+            
+            `
+02-06-2022 17:48:02 INFO     [all_books_page.py:29] Extracted number of pages as integer: `50`.
+02-06-2022 18:25:12 INFO     [app.py:17] Loading books list.
+02-06-2022 18:25:12 INFO     [all_books_page.py:25] Found number of catalogue pages available: `
+            
+                Page 1 of 50
+            
+            `
+02-06-2022 18:25:12 INFO     [all_books_page.py:29] Extracted number of pages as integer: `50`.
+02-06-2022 18:25:30 INFO     [menu.py:19] Finding best books by rating...
+02-06-2022 18:25:36 INFO     [menu.py:26] Finding best books by price...
+02-06-2022 19:45:40 INFO     [app.py:17] Loading books list.
+02-06-2022 19:45:41 INFO     [all_books_page.py:25] Found number of catalogue pages available: `
+            
+                Page 1 of 50
+            
+            `
+02-06-2022 19:45:41 INFO     [all_books_page.py:29] Extracted number of pages as integer: `50`.
+02-06-2022 19:45:53 INFO     [menu.py:19] Finding best books by rating...
+07-06-2022 00:26:40 INFO     [app.py:17] Loading books list.
+07-06-2022 00:26:40 INFO     [all_books_page.py:25] Found number of catalogue pages available: `
+            
+                Page 1 of 50
+            
+            `
+07-06-2022 00:26:40 INFO     [all_books_page.py:29] Extracted number of pages as integer: `50`.
+07-06-2022 02:14:45 INFO     [app.py:17] Loading books list.
+07-06-2022 02:14:45 INFO     [all_books_page.py:25] Found number of catalogue pages available: `
+            
+                Page 1 of 50
+            
+            `
+07-06-2022 02:14:45 INFO     [all_books_page.py:29] Extracted number of pages as integer: `50`.
+07-06-2022 02:14:51 INFO     [menu.py:19] Finding best books by rating...
+07-06-2022 02:14:53 INFO     [menu.py:26] Finding best books by price...
+07-06-2022 02:14:56 INFO     [menu.py:36] Getting next best book from generator of all books...
+07-06-2022 02:53:41 INFO     [app.py:17] Loading books list.
+07-06-2022 02:53:42 INFO     [all_books_page.py:25] Found number of catalogue pages available: `
+            
+                Page 1 of 50
+            
+            `
+07-06-2022 02:53:42 INFO     [all_books_page.py:29] Extracted number of pages as integer: `50`.
+07-06-2022 02:54:26 INFO     [app.py:17] Loading books list.
+07-06-2022 02:54:27 INFO     [all_books_page.py:25] Found number of catalogue pages available: `
+            
+                Page 1 of 50
+            
+            `
+07-06-2022 02:54:27 INFO     [all_books_page.py:29] Extracted number of pages as integer: `50`.
+07-06-2022 02:54:41 INFO     [app.py:17] Loading books list.
+07-06-2022 02:54:42 INFO     [all_books_page.py:25] Found number of catalogue pages available: `
+            
+                Page 1 of 50
+            
+            `
+07-06-2022 02:54:42 INFO     [all_books_page.py:29] Extracted number of pages as integer: `50`.
