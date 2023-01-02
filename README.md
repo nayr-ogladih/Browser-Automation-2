@@ -4,9 +4,9 @@ scraping books
 THINGS DONE IN REPO:
 1) Recap of HTML
 2) Creating locators in Python
-3) Creating our page
-4) Creating our book parser
-5) Writing our app file
+3) Creating page
+4) Creating book parser
+5) Writing app file
 6) Sorting the books
 7) Constructing the menu
 8) Getting multiple pages
