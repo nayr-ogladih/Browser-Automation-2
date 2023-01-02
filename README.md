@@ -1,5 +1,5 @@
 # Browser-Automation-2
-scraping books
+Scraping Books
 
 THINGS DONE IN REPO:
 1) Recap of HTML
